@@ -1,0 +1,4 @@
+{
+    "mongoURI": "MongoDB Credentials Go Here",
+    "baseUrl": "http://localhost:5000"
+}
